@@ -57,7 +57,7 @@ public class Provider {
 
 		Movie movie6 = new Movie(6, "Sami faceci", "Alan W.");
 		movie6.setCast(depp, rush, bloom);
-		movies = Arrays.asList(movie1, movie2, movie3, movie4, movie5, movie6);
+		movies = Arrays.asList(movie1, movie3, movie4, movie5, movie6, movie2);
 	}
 
 	public static List<Actor> getActors() {
