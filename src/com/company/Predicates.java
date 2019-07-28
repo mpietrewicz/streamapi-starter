@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 
 public class Predicates {
 
-    public static Predicate<Actor> sexM = p -> p.getSex().equals(Sex.M);
-    public static Predicate<Actor> sexF = p -> p.getSex().equals(Sex.F);
+    public static Predicate<Actor> sexM = actor -> actor.getSex().equals(Sex.M);
+    public static Predicate<Actor> sexF = actor  -> actor.getSex().equals(Sex.F);
 
 }

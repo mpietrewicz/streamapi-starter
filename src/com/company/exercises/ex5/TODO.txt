@@ -5,7 +5,7 @@
 
 • Metoda zostanie wywołana z poziomu metody main
 
-• Zadaniem metody jest zwrócenie kolekcji (listy) filmów, w których nie grają kobiety (całą obsadęvstanowią mężczyźni)
+• Zadaniem metody jest zwrócenie kolekcji (listy) filmów, w których nie grają kobiety (całą obsadę stanowią mężczyźni)
 
 • Dodatkowo policz ile jest takich filmów
 
